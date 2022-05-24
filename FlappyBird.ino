@@ -46,6 +46,7 @@ void loop() {
   gb.display.clear();
   displayBird();
   if (gb.buttons.pressed(BUTTON_A) && birdPosY-2 > 0){
+    
     velocityY = -2;
   }
 }
