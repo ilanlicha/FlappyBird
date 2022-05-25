@@ -1,4 +1,4 @@
-# FlappyBird
+# FlappyBird - GameBuino
 
 Des sons et des lumières sont utilisés, console requise
 
